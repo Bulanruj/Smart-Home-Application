@@ -1,2 +1,26 @@
-# Smart-Home-Application
-A small app that controls lights, temperature and music 
+Features
+
+- ASCII-style menu interface
+- Control lights, music, and temperature
+- Accepts both number-based and written commands
+- Feedback displayed above the prompt
+
+ Requirements
+
+- .NET SDK 6.0 or later
+- Visual Studio Code (or any C#-compatible IDE)
+
+Run
+1 – Turn on lights
+2 – Turn off lights
+3 – Set temperature
+4 – Play music
+5 – Stop music
+6 – Exit
+
+Author
+
+Andrei-Sebastian Mihalachi
+
+License
+This project is for educational use and does not include a license by default.
